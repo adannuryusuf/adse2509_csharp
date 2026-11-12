@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="sess01_csharp_intro/sess01_csharp_intro.csproj" />
+  <Project Path="sess02_csharp_building_blocks/sess02_csharp_building_blocks.csproj" />
+  <Project Path="sess03_programming_constructs/sess03_programming_constructs.csproj" />
+  <Project Path="sess04_classes_and_methods/sess04_classes_and_methods.csproj" />
+  <Project Path="sess05_inheritance_and_polymorphism/sess05_inheritance_and_polymorphism.csproj" />
+  <Project Path="sess06_abstract_classes_and_interfaces/sess06_abstract_classes_and_interfaces.csproj" />
+  <Project Path="sess07_properties_records_indexers/sess07_properties_records_indexers.csproj" />
+  <Project Path="sess08_namespaces_and_exceptions/sess08_namespaces_and_exceptions.csproj" />
+</Solution>
