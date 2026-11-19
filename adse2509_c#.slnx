@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/sess09_delegates_events_and_collections/" />
   <Project Path="sess01_csharp_intro/sess01_csharp_intro.csproj" />
   <Project Path="sess02_csharp_building_blocks/sess02_csharp_building_blocks.csproj" />
   <Project Path="sess03_programming_constructs/sess03_programming_constructs.csproj" />
@@ -7,4 +8,6 @@
   <Project Path="sess06_abstract_classes_and_interfaces/sess06_abstract_classes_and_interfaces.csproj" />
   <Project Path="sess07_properties_records_indexers/sess07_properties_records_indexers.csproj" />
   <Project Path="sess08_namespaces_and_exceptions/sess08_namespaces_and_exceptions.csproj" />
+  <Project Path="sess09_delegates_events_and_collections/sess09_delegates_events_and_collections.csproj" />
+  <Project Path="sess10_generics_and_iterators/sess10_generics_and_iterators.csproj" />
 </Solution>

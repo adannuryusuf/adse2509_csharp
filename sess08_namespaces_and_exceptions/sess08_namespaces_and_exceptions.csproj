@@ -4,5 +4,6 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>sess08_namespaces_and_exceptions.ArrayTypeMismatchDemo</StartupObject>
   </PropertyGroup>
 </Project>

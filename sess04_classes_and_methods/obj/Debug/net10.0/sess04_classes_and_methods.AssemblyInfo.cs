@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341d134604e8c07606f9eb0d36fe40213b4e0724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a96a1d910c633414b6da912027c475a8554ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
